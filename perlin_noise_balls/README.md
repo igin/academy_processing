@@ -29,3 +29,7 @@ leading to less flickering.
 Perlin noise can be used to do a lot of cool things. It is manly used to
 generate continous random things like lines or landscapes. We will see more
 examples of this soon.
+
+## Preview
+
+![Perlin noise balls preview](./prelin_noise_balls.png)
