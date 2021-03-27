@@ -1,4 +1,4 @@
-![Academy Logo](./logo.png)
+![Academy Logo](./logo_nkode.png)
 
 # Processing Sessions for Academy
 
