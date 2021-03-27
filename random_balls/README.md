@@ -8,4 +8,3 @@ concept to move a ball randomly.
 # Preview
 
 ![Preview of random balls](./random_balls_1.png)
-![Preview of random balls](./random_balls_2.png)
