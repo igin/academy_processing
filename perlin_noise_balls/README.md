@@ -32,4 +32,4 @@ examples of this soon.
 
 ## Preview
 
-![Perlin noise balls preview](./prelin_noise_balls.png)
+![Perlin noise balls preview](./perlin_noise_balls.png)
